@@ -1,0 +1,26 @@
+{
+	"name": "My Progressive Web Application",
+	"short_name": "PWALima",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "images/36.png",
+			"sizes": "36x36",
+			"type": "image/png"
+		},
+		{
+			"src": "images/144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "images/240.png",
+			"sizes": "240x240",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#2196F3",
+	"background_color": "#2196F3",
+	"display": "standalone",
+	"orientation": "portrait"
+}
